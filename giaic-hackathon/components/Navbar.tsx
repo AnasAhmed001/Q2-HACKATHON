@@ -1,14 +1,14 @@
-import Image from "next/image";
+
 import React from "react";
 import {
   NavigationMenu,
   NavigationMenuContent,
-  NavigationMenuIndicator,
+
   NavigationMenuItem,
   NavigationMenuLink,
   NavigationMenuList,
   NavigationMenuTrigger,
-  NavigationMenuViewport,
+
 } from "@/components/ui/navigation-menu";
 import { Input } from "@/components/ui/input";
 import { CiSearch } from "react-icons/ci";
