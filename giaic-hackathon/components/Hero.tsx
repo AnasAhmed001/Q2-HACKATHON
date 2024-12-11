@@ -33,20 +33,20 @@ const Hero = () => {
             Button
           </Button>
         </div>
-        <div className="relative w-full h-full">
+        <div className="relative w-full h-full ">
           <Image
             src="/images/Group 129.png"
             alt="Background"
-            width={706}
+            width={645}
             height={689}
-            className="absolute top-[110px] right-[70px]"
+            className="absolute top-[100px] right-[70px] pr-3"
           />
           <Image
             src="/images/Shell-Shaped-Armchair-Pink-Velvet-Fabric-One-Seater-Sofa-for-Living-Room 1.png"
             alt="Overlay"
             width={629}
             height={629}
-            className="absolute top-[300px] right-[150px]"
+            className="absolute top-[110px] right-[100px]"
           />
         </div>
       </div>
