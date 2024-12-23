@@ -6,7 +6,7 @@ const Hero = () => {
   return (
     <>
       <div className="h-[764px] bg-[#F2F0FF] flex">
-      <div className="top-[122px] right-[70px]">
+        <div className="top-[122px] right-[70px]">
           <Image
             src={"/images/image 32.png"}
             height={387}
